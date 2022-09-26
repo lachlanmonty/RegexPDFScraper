@@ -1,3 +1,5 @@
 
 open_designer.txt
 *.pyc
+*.xml
+*.iml
